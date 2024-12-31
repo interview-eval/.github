@@ -5,3 +5,25 @@ LLM-as-an-Interviewer is an evaluation framework that assesses the capabilities 
 
 Our framework includes a flexible pipeline that can be easily adapted to various tasks by incorporating a customized evaluation rubric.
 
+Here's an improved version of your README content for clarity and professionalism:
+
+---
+
+### Code for Paper Replication
+Access the code used to replicate the results discussed in our paper. [github](https://github.com/interview-eval/interview-eval-paper)
+
+---
+
+### Code for the Framework
+Explore the framework implementation. [github](https://github.com/interview-eval/interview-eval) 
+
+---
+
+### PyPI
+The framework is also available as a Python package on PyPI. Install it using:  
+```bash
+pip install interview-eval
+```
+[Visit the PyPI page](https://pypi.org/project/interview-eval/) (Replace `#` with the actual link).
+
+---
