@@ -24,6 +24,6 @@ The framework is also available as a Python package on PyPI. Install it using:
 ```bash
 pip install interview-eval
 ```
-[Visit the PyPI page](https://pypi.org/project/interview-eval/) (Replace `#` with the actual link).
+[Visit the PyPI page](https://pypi.org/project/interview-eval/) 
 
 ---
