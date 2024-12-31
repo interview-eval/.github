@@ -1,12 +1,7 @@
-# Interview Eval
+# LLM-as-an-Interviewer
+This is the official GitHub repository for [LLM-AS-AN-INTERVIEWER: Beyond Static Testing Through Dynamic LLM Evaluation](https://arxiv.org/abs/2412.10424).
 
-<!--
+LLM-as-an-Interviewer is an evaluation framework that assesses the capabilities of LLMs through an interview-style process. In this approach, the LLM acting as the interviewer evaluates other LLMs by providing feedback and asking follow-up questions, enabling a more comprehensive assessment of their capabilities.
 
-**Here are some ideas to get you started:**
+Our framework includes a flexible pipeline that can be easily adapted to various tasks by incorporating a customized evaluation rubric.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
