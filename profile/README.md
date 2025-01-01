@@ -5,8 +5,6 @@ LLM-as-an-Interviewer is an evaluation framework that assesses the capabilities 
 
 Our framework includes a flexible pipeline that can be easily adapted to various tasks by incorporating a customized evaluation rubric.
 
-Here's an improved version of your README content for clarity and professionalism:
-
 ---
 
 ### Code for Paper Replication
